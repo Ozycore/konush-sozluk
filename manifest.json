@@ -1,0 +1,42 @@
+{
+  "counts": {
+    "by_pos": {
+      "adj": 17851,
+      "adv": 1589,
+      "conj": 99,
+      "intj": 272,
+      "noun": 121486,
+      "num": 389,
+      "other": 86,
+      "phrase": 5582,
+      "prep": 179,
+      "pron": 156,
+      "verb": 14525
+    },
+    "entries": 162214,
+    "keys": 768477,
+    "with_tr": 40764
+  },
+  "file": "konush-sozluk.sqlite3",
+  "license": "CC BY-SA 4.0",
+  "schema_version": 1,
+  "sha256": "5167ec59aef9d10567095d59d5e77b78823573294540dc26c1097118b76edb32",
+  "size_bytes": 49901568,
+  "sources": {
+    "dewiktionary": {
+      "dump": "2026-09-01",
+      "extracted": "2026-09-24",
+      "file": "dewikt.jsonl.gz",
+      "license": "CC BY-SA 4.0 — Vikisözlük katkıcıları (de.wiktionary.org), Wiktextract/kaikki.org",
+      "sha256": "fcf56f128042249436c565edfaf6ef26f8573d76c7afb6a2689c40c62d4c73ec",
+      "url": "https://kaikki.org/dewiktionary/raw-wiktextract-data.jsonl.gz"
+    },
+    "wikdict_de_tr": {
+      "date": "2026-06-23",
+      "file": "de-tr.sqlite3",
+      "license": "CC BY-SA (WikDict, DBnary; Vikisözlük içeriği CC BY-SA 3.0/4.0)",
+      "sha256": "f7231ca25ccef40be151e062650db8f79abcff6cae7cf3e8975b92137ae21b6d",
+      "url": "https://download.wikdict.com/dictionaries/sqlite/2/de-tr.sqlite3"
+    }
+  }
+}
