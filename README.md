@@ -27,6 +27,8 @@ Kaynak dosyaların adresi, tarihi ve sha256'sı `manifest.json` içindedir.
 - Edat: yönettiği hâl (A1–A2 edatları elle tamamlandı); kaynaşmış edatlar (im = in dem, zum = zu dem …) edat olarak eklendi.
 - Türkçe karşılık: WikDict'te her anlamın ilk çevirisi, puan sırasıyla, en fazla üç; yoksa Vikisözlük'ün Türkçe çevirisi.
 - Arama anahtarları: küçük harf, aksansız (ä→a, ß→ss, ı→i), sabit kurallarla.
+- Küfür ve hakaret (Konush 4+ bir uygulamadır): bütün anlamları Vikisözlük'te *vulgär* ya da *pejorativ* etiketli maddeler ve
+  etiketi eksik sık küfür, cinsel argo ve etnik/grup hakaretleri çıkarıldı; kaba Türkçe karşılıklar alınmadı.
 
 Veri otomatik üretilmiştir ve tek tek incelenmemiştir; hata içerebilir.
 
@@ -50,5 +52,6 @@ contributors to the German Wiktionary (de.wiktionary.org), extracted with [Wikte
 (dump 2026-09-01, extraction 2026-09-24), and [WikDict](https://www.wikdict.com) de-tr (Karl Bartel; DBnary, Wiktionary; 2026-06-23).
 The changes are listed above in Turkish (headwords only, names and inflected-form entries removed, compact tables, merged
 same-gender homographs, all genders kept, curated preposition cases and contractions, up to three Turkish equivalents,
-entries and equivalents naming Turkish persons or places removed).
+entries and equivalents naming Turkish persons or places removed, vulgar and offensive entries and crude Turkish equivalents
+removed).
 The data was generated automatically and has not been reviewed entry by entry.

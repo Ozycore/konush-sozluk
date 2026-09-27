@@ -1,27 +1,27 @@
 {
   "counts": {
     "by_pos": {
-      "adj": 17851,
-      "adv": 1589,
+      "adj": 17829,
+      "adv": 1588,
       "conj": 99,
-      "intj": 272,
-      "noun": 121486,
+      "intj": 270,
+      "noun": 121204,
       "num": 389,
       "other": 86,
-      "phrase": 5582,
+      "phrase": 5575,
       "prep": 179,
       "pron": 156,
-      "verb": 14525
+      "verb": 14503
     },
-    "entries": 162214,
-    "keys": 768477,
-    "with_tr": 40764
+    "entries": 161878,
+    "keys": 767062,
+    "with_tr": 40671
   },
   "file": "konush-sozluk.sqlite3",
   "license": "CC BY-SA 4.0",
   "schema_version": 1,
-  "sha256": "5167ec59aef9d10567095d59d5e77b78823573294540dc26c1097118b76edb32",
-  "size_bytes": 49901568,
+  "sha256": "61e3cc95caad3d2ea50203d3151ba2eaf87e9420e95ece0875548d58ff3062e3",
+  "size_bytes": 49799168,
   "sources": {
     "dewiktionary": {
       "dump": "2026-09-01",
