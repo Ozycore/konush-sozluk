@@ -34,8 +34,11 @@
     "wikdict_de_tr": {
       "date": "2026-06-23",
       "file": "de-tr.sqlite3",
-      "license": "CC BY-SA (WikDict, DBnary; Vikisözlük içeriği CC BY-SA 3.0/4.0)",
+      "license": "CC BY-SA 4.0 — WikDict (Karl Bartel); Vikisözlük içeriği DBnary üzerinden",
+      "license_statement": "https://www.wikdict.com/page/about — veri \"Creative Commons BY-SA\" altında, bağlantısı CC BY-SA 4.0'a gider (okundu 2026-10-02)",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
       "sha256": "f7231ca25ccef40be151e062650db8f79abcff6cae7cf3e8975b92137ae21b6d",
+      "upstream_license": "DBnary (kaiko.getalp.org/about-dbnary): CC BY-SA 3.0 Unported",
       "url": "https://download.wikdict.com/dictionaries/sqlite/2/de-tr.sqlite3"
     }
   }
